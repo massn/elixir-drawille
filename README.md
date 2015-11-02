@@ -1,6 +1,6 @@
-# Drawille
+# Elixir-Drawille
 
-Elixir-Draw is a library for drawings in the terminal using Unicode Braille characters. It is based on [Drawille](https://github.com/asciimoo/drawille).
+Elixir-Drawille is a library for drawings in the terminal using unicode braille characters. It is based on [Drawille](https://github.com/asciimoo/drawille).
 
 ## Examples
 
