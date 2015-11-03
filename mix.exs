@@ -2,8 +2,8 @@ defmodule Drawille.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :drawille,
-     version: "0.0.1",
+    [app: :elixir_drawille,
+     version: "0.0.2",
      elixir: "~> 1.1",
      description: "Drawings using terminal braille characters.",
      package: [
