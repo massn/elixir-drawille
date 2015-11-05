@@ -3,7 +3,7 @@ defmodule Drawille.Mixfile do
 
   def project do
     [app: :elixir_drawille,
-     version: "0.0.2",
+     version: "0.0.3",
      elixir: "~> 1.1",
      description: "Drawings using terminal braille characters.",
      package: [
